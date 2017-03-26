@@ -1,0 +1,142 @@
+# real<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+<link rel='stylesheet' href='w4.css'>
+<link rel="stylesheet" href="w5.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body bgcolor="lavender">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-CadetBlue w3-card-4">
+        <div class="w3-display-container">
+          <img src="02.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            <h2><FONT COLOR=#FFFFFF>K. Praew</FONT></h2>
+          </div>
+      </div>
+        <div class="w3-container">
+          
+        <h2> Hello, it's me</h2>
+    <pre>Hello everyone,
+        let me introduce myself.My name's Praew. 
+        I'm 20 years old.It is a great pleasure to meet you all.</pre>
+       <p><i>"I am easy going. I can get along with anybody"</i></p> 
+        <hr>
+        </div>
+        
+     <div class="w3-container"> 
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Hatyai, Thailand</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>praew.pks@gmail.com</p>
+          <hr> 
+       
+    <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Adobe Photoshop</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-pale-green" style="width:90%">90%</div>
+          </div>
+          <p>Media</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-pale-green" style="width:50%">50%</div>
+          </div>
+          <br>
+        <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>Thai</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-pale-green" style="height:24px;width:100%"></div>
+          </div>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-pale-green" style="height:24px;width:50%"></div>
+          </div>
+     <br>
+       <hr>
+       <p><a href="https://www.facebook.com/praew.pks">Facebook</a></p>
+       <p><a href="https://twitter.com/praewpw_">Twitter</a></p>
+       <p><a href="https://www.instagram.com/praewpw_/">Instagram</a></p>
+       <center><img src="1m4ceo.gif" alt="Praewbyebye" style="width:128px;height:128px;"></center>  
+       <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+    
+    <!-- Right Column -->
+    <div class="w3-twothird">
+      <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>HATYAIWITTAYALAI II</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw "></i>2008-2014</h6>
+          
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Prince of Songkla University</b></h5>
+          <p>Information System</p>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - <span class="w3-tag w3-pale-yellow w3-round">Current</span></h6>
+          <p></p>
+          <hr>
+        </div>
+        
+        <div class="w3-container w3-card-2 w3-pale-green">
+        <h2 class="w3-text-grey w3-padding-16">
+          <i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>ABOUT ME</h2>
+          
+          <!-- Photo Grid -->
+      <div class="w3-row" id="myGrid" style="margin-bottom:128px">
+       <div class="w3-third">
+        <img src="06.png" style="width:100%">
+        <img src="07.png" style="width:100%">
+      </div>
+         <div class="w3-third">
+    <img src="08.png" style="width:100%">
+    <img src="09.png" style="width:100%">
+           </div>
+         <div class="w3-third">
+    <img src="16.png" style="width:100%">
+    <img src="15.png" style="width:100%">
+             <hr>
+           </div>
+            
+     <h2 class="w3-text-grey w3-padding-16">
+          <i class="fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>MY HOBBY</h2>
+        <p><font color=grey>"The only thing that I have"</font></p>
+        <div class="w3-third">
+        <img src="17.png" style="width:100%">
+          </div>
+          <div class="w3-third">
+          <img src="18.png" style="width:100%">
+          </div>
+        <div class="w3-third">
+          <img src="19.png" style="width:100%">
+          </div>
+        <!-- End Page Content -->
+<!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+  
+<footer class="w3-container w3-pale-green w3-center w3-margin-top">
+  <p>Thanks for watching.</p>
+  
+</footer>
+
+
+</body>
+</html>
