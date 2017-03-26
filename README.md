@@ -23,9 +23,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="/w3images/avatar_hat.jpg" style="width:100%" alt="Avatar">
+          <img src="golf1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Jane Doe</h2>
+            <h2>Tima</h2>
           </div>
         </div>
         <div class="w3-container">
@@ -130,7 +130,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
            </div>
            <h2 class="w3-text-black w3-padding-16">
           <i class="fa fa-plane fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>My Interest</h2>
-        <p><font color=grey>"Like to travel"</font></p>
+        <p><font color=black>"Like to travel"</font></p>
         <div class="w3-third">
         <img src="13.jpg" style="width:100%">
           </div>
