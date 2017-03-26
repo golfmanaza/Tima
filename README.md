@@ -1,5 +1,3 @@
-# real<!DOCTYPE html>
-<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -100,16 +98,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
 
       <div class="w3-container w3-card-2 w3-red">
-        <h2 class="w3-text-black w3-padding-16"><i class="fa fa-star fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <h2 class="w3-text-black w3-padding-16"><i class="fa fa-star fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Call me Golf</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Call me Golf</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Yesterday was yesterday, focus on today.</h6>
-          <p>Yesterday was yesterday, focus on today.</p>
+          <h5 class="w3-opacity"><b>Yesterday was yesterday, focus on today.</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-heart fa-fw w3-margin-right"></i>Yesterday was yesterday, focus on today.</h6>
+          
           <hr>
         </div>
    
 
-    <!-- End Right Column -->
+  <!-- End Right Column -->
     </div>
     <!-- Photo Grid -->
       <div class="w3-row" id="myGrid" style="margin-bottom:128px">
@@ -127,8 +125,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
              <hr>
            </div>
            <h2 class="w3-text-black w3-padding-16">
-          <i class="fa fa-plane fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>My Interest</h2>
-        <p><font color=black>"Like to travel"</font></p>
+          <i class="fa fa-plane fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Like to travel</h2>
         <div class="w3-third">
         <img src="13.jpg" style="width:100%">
           </div>
