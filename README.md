@@ -8,7 +8,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-black">
+<body class="w3-grey">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -19,7 +19,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-light-blue w3-text-white w3-card-4">
+      <div class="w3-light-grey w3-text-white w3-card-4">
         <div class="w3-display-container">
           <img src="golf1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-white">
@@ -81,11 +81,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card-2 w3-pink w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-flag fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b></b></h5>
+          <h5 class="w3-opacity"><b></b>Prince of Songkla University</h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015- <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>Prince of Songkla University<br>
-          Faculty Of Management Science<br>
-		      Information System.
+          <p>     Faculty Of Management Science<br>
+		 Information System.
           </p>
           <hr>
         </div>
