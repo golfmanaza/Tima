@@ -8,7 +8,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-red">
+<body class="w3-black">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -19,7 +19,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-blue w3-text-white w3-card-4">
+      <div class="w3-light-blue w3-text-white w3-card-4">
         <div class="w3-display-container">
           <img src="golf1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-white">
@@ -78,7 +78,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Right Column -->
     <div class="w3-twothird">
     
-      <div class="w3-container w3-card-2 w3-green w3-margin-bottom">
+      <div class="w3-container w3-card-2 w3-pink w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-flag fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b></b></h5>
@@ -101,7 +101,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-star fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Call me Golf</h2>
         <div class="w3-container">
           <h5 class="w3-text-teal"><i class="fa fa-heart fa-fw w3-margin-right"></i>Yesterday was yesterday, focus on today.</h5>
-          
           <hr>
         </div>
    
@@ -121,7 +120,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
          <div class="w3-third">
     <img src="2.jpg" style="width:100%">
     <img src="3.jpg" style="width:100%">
-             <hr>
+          
            </div>
            <h2 class="w3-text-black w3-padding-16">
           <i class="fa fa-plane fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Like to travel</h2>
