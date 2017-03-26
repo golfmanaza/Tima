@@ -19,18 +19,18 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-white w3-text-grey w3-card-4">
+      <div class="w3-blue w3-text-white w3-card-4">
         <div class="w3-display-container">
           <img src="golf1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-white">
             <h2>Tima</h2>
           </div>
         </div>
-        <div class="w3-container"><br>
+        <div class="w3-container"><br><br>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Songkhla,Thailand</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>thitima501@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>080-8912545</p>
-          <hr>
+          <hr><hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>Adobe Photoshop</p>
@@ -56,11 +56,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
           <p>Thai</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%">100</div>
+            <div class="w3-round-xlarge w3-center w3-teal" style="height:24px;width:100%">100%</div>
           </div>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:20%">20</div>
+            <div class="w3-round-xlarge w3-center w3-teal" style="height:24px;width:20%">20%</div>
           </div>
                    
           <br>
@@ -78,7 +78,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Right Column -->
     <div class="w3-twothird">
     
-      <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+      <div class="w3-container w3-card-2 w3-green w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-flag fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b></b></h5>
